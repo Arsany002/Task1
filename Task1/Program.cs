@@ -21,7 +21,7 @@ namespace Application
             double totalestimate = total + tax;
             Console.WriteLine($"The total estimate is {totalestimate} $ ");
             Console.WriteLine("This estimate is available only for 30 days");
-
+            Console.WriteLine("---");
 
         }
     }
